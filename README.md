@@ -1,17 +1,31 @@
-# Hello, I'm Reeza 
+## <h2 align="center">HELLO 𐔌՞. .՞𐦯 IM REEZA </h2>
 
-Computer Engineering student passionate about design, technology, and problem-solving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=20&pause=1000&color=FFC1CC&center=true&vCenter=true&width=800&lines=computer+engineering+student;passionate+about+the+intersection+of+creativity+and+technology;always+learning+new+things+💭" />
+</p>
 
-<img align="below" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDVpb3Jxa2FrZzB4ZWV1M2htMjZheDFucmE0NDJkNXo5djRqaXpkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Uva7h1wTIz9WKib0w1/giphy.gif">
+</div>
 
-## ABOUT ME
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDVpb3Jxa2FrZzB4ZWV1M2htMjZheDFucmE0NDJkNXo5djRqaXpkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Uva7h1wTIz9WKib0w1/giphy.gif" width="300">
+</p> 
 
-Computer Engineering Student
+## <h2 align="center">TECH STACK</h2>
 
-<img align="below" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6bTFvYmIzNHptdWNiZWtjc3N6aW9vZzlsbzN6em12cjBsMHExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fgWkTmhl5nGpBleFmx/giphy.gif">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" height="48"/>
+  <img src="./assets/diptrace.png" height="48">
+  <img src="./assets/autocad.png" height="48">
+  <img src="./assets/canva.png" height="48">
+  <img src="./assets/capcut.png" height="48">
+  <img src="./assets/excel.png" height="43">
+  
+</p>
 
-## CONNECT WITH ME 
+## <h2 align="center">CONNECT WITH ME</h2>
 
 📧 reezamaries.fv@gmail.com
 
 💼 LinkedIn: linkedin.com/in/reeza-maries-vancuylenberg
+
+
