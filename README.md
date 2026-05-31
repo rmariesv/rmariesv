@@ -24,7 +24,7 @@
 
 ## <h2 align="center">CONNECT WITH ME</h2>
 
-📧 reezamaries.fv@gmail.com
+📧 rmariesvancuylenberg@gmail.com
 
 💼 LinkedIn: linkedin.com/in/reeza-maries-vancuylenberg
 
