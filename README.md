@@ -1,7 +1,7 @@
 ## <h2 align="center">HELLO 𐔌՞. .՞𐦯 IM REEZA </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=20&pause=1000&color=FFC1CC&center=true&vCenter=true&width=800&lines=⋆+｡+°+✩+passionate+about+the+intersection+of+creativity+and+technology+⋆+｡+°+✩" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&pause=1000&color=FFC1CC&center=true&vCenter=true&width=800&lines=⋆+｡+°+✩+passionate+about+the+intersection+of+creativity+and+technology+⋆+｡+°+✩" />
 </p>
 
 </div>
