@@ -19,7 +19,12 @@
   <img src="./assets/canva.png" height="48">
   <img src="./assets/capcut.png" height="48">
   <img src="./assets/excel.png" height="43">
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmariesv/rmariesv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmariesv/rmariesv/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rmariesv/rmariesv/output/github-contribution-grid-snake.svg" />
+</picture>  
 </p>
 
 ## <h2 align="center">CONNECT WITH ME</h2>
